@@ -57,16 +57,16 @@ export const eduData = [
 
 export const experiencesData = [
   {
-    title: "Front End Developer",
+    title: "Software Developer",
     location: 'SabaIdea',
     description: `I’ve had the opportunity to work on several projects, including Narengi and Televika.
-     used my skills in front-end technologies like Reactjs, JavaScript, and CSS to develop responsive (mobile friendly) and high-performance applications.
+     used my skills and technologies like Reactjs, JavaScript, and CSS to develop responsive (mobile friendly) and high-performance applications.
       My focus has always been on building user-friendly interfaces, optimizing performance, and ensuring cross-browser compatibility.`,
     icon: faBriefcase,
     date: "Sep 2021 – Aug 2024",
   },
   {
-    title: "Responsibilities as a Front End Developer",
+    title: "Responsibilities as a Software Developer",
     location: 'SabaIdea',
     description: `Developed Single-Page Applications using Reactjs, Nextjs, TypeScript and ES6.  Created over 50 reusable UI components in the design system, reducing development time for future
 projects by 30%. Styled web pages utilizing Sass, Styled Components and CSS. Provided Redux state management for large-scale projects, enhancing data consistency and
@@ -78,6 +78,9 @@ and development.  Debugged and resolved 150+ errors and issues, improving applic
 Refactored outdated code, improving clarity and boosting overall performance by 15%.  implemented website layouts based on design systems, ensuring faster implementation of new UI
 features. Deployed and managed web applications on AWS and integrated Nodejs-based services,
 ensuring seamless cloud integration and optimizing performance.
+Helped optimize database queries, improving performance and reducing query execution time.
+Supported the creation and updating of database schema designs to ensure proper data modeling for application features.
+
 
 `,
     icon: faBriefcase,

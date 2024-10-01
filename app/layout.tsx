@@ -29,12 +29,12 @@ import Footer from "./sections/Footer";
 export const metadata: Metadata = {
   title: "Fateme Hashemi | Personal Portfolio",
   description:
-    "Bachelor of Computer Science | Front End Developer",
+    "Bachelor of Computer Science | Software Developer",
   authors: { name: "Fateme Hashemi", url: "https://github.com/Fateme-Hashemi" },
   openGraph: {
     title: "Fateme Hashemi | Personal Portfolio",
     description:
-      "Bachelor of Computer Science | Front End Developer",
+      "Bachelor of Computer Science | Software Developer",
     emails: "fatemehashemi481@gmail.com",
     url: "https://github.com/Fateme-Hashemi",
   },

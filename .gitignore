@@ -1,0 +1,16 @@
+.DS_Store
+*.code-workspace
+.temp
+portfolio-ver2/public/project-imgs/data.png
+portfolio-ver2/public/project-imgs/data.svg
+/portfolio-website-master
+node_modules/
+build/
+dist/
+.cache/
+.next/
+*.log
+.env
+.DS_Store
+Thumbs.db
+.vscode/

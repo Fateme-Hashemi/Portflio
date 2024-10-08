@@ -136,6 +136,8 @@ export const skillsData = [
   "Next.js",
   "TypeScript",
   "Node.js",
+  "Express.js",
+  "C#",
   "Rest API",
   "GraphQl",
   "Redux",
@@ -147,7 +149,10 @@ export const skillsData = [
   "GitLab",
   "AWS",
   "Jest",
-    "Figma"
+  "Figma", 
+  "Material UI",
+  "Bootstrap",
+  "tailwind"
 ] as const;
 
 export const socials = {
@@ -167,7 +172,7 @@ export const socials = {
     // color: "#3179b5",
     // color: "#fb923c",
     // color: "email",
-    url: "fatemehashemi481@gmail.com ",
+    url: "elinhashemi.r@gmail.com ",
     icon: faEnvelope,
   },
 };

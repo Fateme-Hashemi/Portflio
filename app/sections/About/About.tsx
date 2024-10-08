@@ -45,7 +45,7 @@ export default function About() {
 
         <article className="grow text-justify text-base flex flex-col justify-evenly gap-10">
         <p className="">
-  I&apos;m Fatemeh Hashemi, a Software Developer with over three years of experience in creating visually appealing, responsive, and interactive web pages. My expertise lies in crafting dynamic user interfaces using technologies like HTML, CSS, JavaScript. I am passionate about building seamless and engaging user experiences, focusing on performance and accessibility.
+  I&apos;m Elin Hashemi, a Software Developer with over three years of experience in creating visually appealing, responsive, and interactive web pages. My expertise lies in crafting dynamic user interfaces using technologies like HTML, CSS, JavaScript. I am passionate about building seamless and engaging user experiences, focusing on performance and accessibility.
 </p>
 
           <p className="">

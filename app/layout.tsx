@@ -27,15 +27,15 @@ import type { Metadata } from "next";
 import Footer from "./sections/Footer";
 
 export const metadata: Metadata = {
-  title: "Fateme Hashemi | Personal Portfolio",
+  title: "Elin Hashemi | Personal Portfolio",
   description:
     "Bachelor of Computer Science | Software Developer",
-  authors: { name: "Fateme Hashemi", url: "https://github.com/Fateme-Hashemi" },
+  authors: { name: "Elin Hashemi", url: "https://github.com/Fateme-Hashemi" },
   openGraph: {
-    title: "Fateme Hashemi | Personal Portfolio",
+    title: "Elin Hashemi | Personal Portfolio",
     description:
       "Bachelor of Computer Science | Software Developer",
-    emails: "fatemehashemi481@gmail.com",
+    emails: "elinhashemi.r@gmail.com",
     url: "https://github.com/Fateme-Hashemi",
   },
 };

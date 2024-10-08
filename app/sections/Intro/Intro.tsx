@@ -41,7 +41,7 @@ const Intro = () => {
       >
         <article className="text-center text-lg  flex flex-col gap-5">
           <h1 className="text-4xl lg:6xl">
-            {`Hi, I'm`} <span className="">Fatemeh Hashemi</span>.
+            {`Hi, I'm`} <span className="">Elin (Fateme) Hashemi</span>.
           </h1>
           <p className="">Welcome to my portfolio 👋.</p>
           <p className="">
